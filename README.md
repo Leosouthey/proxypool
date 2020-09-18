@@ -24,7 +24,7 @@
             <h3><a href="/clash">Clash</a></h3>
             <p>Clash配置文件：https://域名/clash/config <a
                         href="clash://install-config?url=https://域名/clash/config">一键导入</a></p>
-            <p>Clash proxy-provider(Shadowrocket添加订阅方式可用)：https://206.189.147.40/clash/proxies</p>
+            <p>Clash proxy-provider(Shadowrocket添加订阅方式可用)：https://域名/clash/proxies</p>
             <p>筛选代理类型：https://域名/clash/proxies?type=ss,ssr,vmess</p>
             <p>筛选国家：https://域名/clash/proxies?c=HK,TW,US&nc=JP （c为需要的国家，nc为不需要的国家）</p>
 			<br>
