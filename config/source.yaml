@@ -11,6 +11,12 @@
 - type: webfuzzsub
   options:
     url: http://d.zaix.ru/ntiL.txt
+- type: webfuzzsub
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzzsub
+  options:
+    url: https://github.com/freefq/free
 
 # 订阅链接
 - type: subscribe
@@ -25,6 +31,15 @@
 - type: subscribe
   options:
     url: https://bihai-v2ray.netlify.com
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
 # 网页模糊抓取
 - type: webfuzz
